@@ -28,7 +28,22 @@ sudo apt install -y git
 echo "📮 Installing Postman..."
 sudo snap install postman
 
-sudo apt install antigravity
 echo "✅ Installation completed!"
+
+```
+
+# Installing VS Code on Ubuntu (.deb Method)
+
+1. **Download the Package**  
+   Download the **.deb package** from the [official VS Code download page](https://code.visualstudio.com).
+
+2. **Navigate to Downloads**  
+   Open your terminal and move to your Downloads folder:  
+   ```bash
+   cd ~/Downloads
+
+3. **Install the Package**  
+ ```bash
+sudo apt install ./code_amd64.deb
 
 
