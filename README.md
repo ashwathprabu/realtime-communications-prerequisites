@@ -4,7 +4,7 @@
 
 The session/project requires the following:
 
-1. Google Antigravity
+1. VSCode
 2. Node.js (LTS)
 
 5. Git
